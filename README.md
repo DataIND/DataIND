@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DataIND
+- 👋 Hi, I’m Akash Jadhav
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Data Sciene
+- 🌱 I’m currently learning Machine Learning,Data Sciene
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
