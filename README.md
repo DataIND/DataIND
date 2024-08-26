@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Akash Jadhav
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Machine Learning,Data Sciene
+- 🌱 I’m currently learning Machine Learning, Deep Learning and NLP
+- ✨ I will happy to contribute Machine Learning based System Designs
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
