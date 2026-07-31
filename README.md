@@ -21,10 +21,10 @@ Experienced Backend Developer with **4+ years** of expertise in designing, devel
 
 ### Backend Development
 - Python 3
+- FastAPI
 - Django
 - Django REST Framework (DRF)
 - Flask
-- FastAPI
 
 ### Databases & Caching
 - PostgreSQL
